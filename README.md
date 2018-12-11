@@ -38,3 +38,17 @@ Some example output:
     Number of captured Black tokens: 0
 
     ************************************************
+    
+    
+    8     O     O     O     O
+    7  O     O     O     O
+    6           O     O     O
+    5        O
+    4
+    3  O     O     O     O
+    2     O     O     O     O
+    1  O     O     O     O
+       A  B  C  D  E  F  G  H
+
+    ************************************************
+
