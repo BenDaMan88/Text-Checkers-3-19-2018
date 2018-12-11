@@ -1,5 +1,8 @@
 # Text-Checkers-3-19-2018
 
+A text based version of the game Checkers. There are 3 different sizes of boards to play on, an 8x8, 10x10, and a 12x12. The program was made in C++.
+
+Some example output:
 
 
     You entered an invalid command line argument.
